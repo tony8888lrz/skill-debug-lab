@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "skills": {
+    "brand-writer": {
+      "source": "zed-industries/zed",
+      "sourceType": "github",
+      "computedHash": "414f539bb20a7326b1d2e341c62c21669442e437d923a3b91840fe6516eee296"
+    },
+    "humanizer": {
+      "source": "zed-industries/zed",
+      "sourceType": "github",
+      "computedHash": "421a3d9577f6bb31f61d2aa0d083d36a648fa687a4545c0e4d5bf349c07ad572"
+    },
+    "phantom-scrape": {
+      "source": "tony8888lrz/skill-debug-lab",
+      "sourceType": "github",
+      "computedHash": "8b44098c81a7f197da850a53628d85202feb6d17e35c4f61c1fa29928ffb7ab2"
+    }
+  }
+}
